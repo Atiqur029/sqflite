@@ -2,7 +2,6 @@ image
 
 ![image](https://user-images.githubusercontent.com/114304729/221776010-fe66f4b8-7afc-4420-81e1-1d15eb19d557.png)
 
-2nd image:
 ![image](https://user-images.githubusercontent.com/114304729/221776156-7fc0b400-0580-4040-87bb-046bfac676fd.png)
 
 
